@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AnzeLudvik
 - 👀 I’m interested in Machine learning, Artificial intelligence, Automation
-- 🌱 I’m currently learning React.js, Redux.js, SQL, PostgreSQL
+- 🌱 I’m currently learning JavaScript, Bootstrap, React.js, Redux.js, SQL, PHP
 - 📫 How to reach me: 
   - gmail: aludvik04@gmail.com
 
